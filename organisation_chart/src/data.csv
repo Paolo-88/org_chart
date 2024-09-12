@@ -1,0 +1,56 @@
+id, parentId, name, surname, positionName, phone, email, team, location, department, description, imageUrl
+1, , John, Doe, CEO, 555-0101, john.doe@company.com,, New York, Executive, Chief Executive Officer,/images/1.png
+2,1, Jane, Smith, CFO, 555-0102, jane.smith@company.com,, New York, Executive, Chief Financial Officer,/images/2.png
+3,1, Mike, Johnson, CTO, 555-0103, mike.johnson@company.com,, San Francisco, Executive, Chief Technology Officer,/images/3.png
+4,2, Emily, Davis, Finance Manager, 555-0104, emily.davis@company.com,, New York, Finance, Oversees financial operations,/images/4.png
+5,3, Robert, Brown, IT Manager, 555-0105, robert.brown@company.com,, San Francisco, Technology, Manages IT infrastructure,/images/1.png
+6,4, Linda, Wilson, Accountant, 555-0106, linda.wilson@company.com,, New York, Finance, Handles accounting tasks,/images/2.png
+7,5, James, Taylor, System Administrator, 555-0107, james.taylor@company.com,, San Francisco, Technology, Manages system operations,/images/3.png
+8,3, Sarah, Moore, Software Engineer, 555-0108, sarah.moore@company.com,, San Francisco, Technology, Develops software solutions,/images/4.png
+9,3, David, Anderson, Data Scientist, 555-0109, david.anderson@company.com,, San Francisco, Technology, Analyzes data trends,/images/1.png
+10,4, Susan, Thomas, Financial Analyst, 555-0110, susan.thomas@company.com,, New York, Finance, Analyzes financial data,/images/2.png
+11,1, Karen, Jackson, COO, 555-0111, karen.jackson@company.com,, New York, Executive, Chief Operating Officer,/images/3.png
+12,11, Brian, White, Operations Manager, 555-0112, brian.white@company.com,, New York, Operations, Oversees daily operations,/images/4.png
+13,11, Lisa, Harris, HR Manager, 555-0113, lisa.harris@company.com,, New York, Human Resources, Manages HR activities,/images/1.png
+14,12, Kevin, Martin, Operations Coordinator, 555-0114, kevin.martin@company.com,, New York, Operations, Coordinates operations tasks,/images/2.png
+15,13, Nancy, Thompson, Recruiter, 555-0115, nancy.thompson@company.com,, New York, Human Resources, Handles recruitment,/images/3.png
+16,2, Daniel, Garcia, Controller, 555-0116, daniel.garcia@company.com,, New York, Finance, Manages financial reporting,/images/4.png
+17,5, Jessica, Martinez, Network Engineer, 555-0117, jessica.martinez@company.com,, San Francisco, Technology, Maintains network systems,/images/1.png
+18,8, Charles, Robinson, Frontend Developer, 555-0118, charles.robinson@company.com,, San Francisco, Technology, Develops frontend applications,/images/2.png
+19,8, Patricia, Clark, Backend Developer, 555-0119, patricia.clark@company.com,, San Francisco, Technology, Develops backend systems,/images/3.png
+20,9, Jennifer, Rodriguez, Data Analyst, 555-0120, jennifer.rodriguez@company.com,, San Francisco, Technology, Analyzes data sets,/images/4.png
+21,3, Matthew, Lewis, AI Specialist, 555-0121, matthew.lewis@company.com,, San Francisco, Technology, Develops AI models,/images/1.png
+22,21, Barbara, Lee, Machine Learning Engineer, 555-0122, barbara.lee@company.com,, San Francisco, Technology, Implements ML algorithms,/images/2.png
+23,21, Paul, Walker, Data Engineer, 555-0123, paul.walker@company.com,, San Francisco, Technology, Builds data pipelines,/images/3.png
+24,5, Steven, Hall, Security Analyst, 555-0124, steven.hall@company.com,, San Francisco, Technology, Ensures IT security,/images/4.png
+25,4, Laura, Allen, Tax Specialist, 555-0125, laura.allen@company.com,, New York, Finance, Manages tax compliance,/images/1.png
+26,12, Anthony, Young, Logistics Manager, 555-0126, anthony.young@company.com,, New York, Operations, Oversees logistics,/images/2.png
+27,13, Carol, King, HR Coordinator, 555-0127, carol.king@company.com,, New York, Human Resources, Supports HR activities,/images/3.png
+28,3, Mark, Wright, Cloud Architect, 555-0128, mark.wright@company.com,, San Francisco, Technology, Designs cloud solutions,/images/4.png
+29,28, Betty, Scott, Cloud Engineer, 555-0129, betty.scott@company.com,, San Francisco, Technology, Implements cloud infrastructure,/images/1.png
+30,28, Sandra, Green, DevOps Engineer, 555-0130, sandra.green@company.com,, San Francisco, Technology, Manages CI/CD pipelines,/images/2.png
+31,5, George, Adams, IT Support Specialist, 555-0131, george.adams@company.com,, San Francisco, Technology, Provides IT support,/images/3.png
+32,9, Dorothy, Baker, Statistician, 555-0132, dorothy.baker@company.com,, San Francisco, Technology, Analyzes statistical data,/images/4.png
+33,21, Jason, Gonzalez, AI Researcher, 555-0133, jason.gonzalez@company.com,, San Francisco, Technology, Conducts AI research,/images/1.png
+34,11, Helen, Nelson, Project Manager, 555-0134, helen.nelson@company.com,, New York, Operations, Manages projects,/images/2.png
+35,34, Amy, Carter, Project Coordinator, 555-0135, amy.carter@company.com,, New York, Operations, Coordinates project tasks,/images/3.png
+36,2, Frank, Mitchell, Treasurer, 555-0136, frank.mitchell@company.com,, New York, Finance, Manages treasury operations,/images/4.png
+37,13, Rebecca, Perez, HR Assistant, 555-0137, rebecca.perez@company.com,, New York, Human Resources, Assists with HR tasks,/images/1.png
+38,8, Harold, Roberts, UX Designer, 555-0138, harold.roberts@company.com,, San Francisco, Technology, Designs user interfaces,/images/2.png
+39,8, Brenda, Turner, UI Designer, 555-0139, brenda.turner@company.com,, San Francisco, Technology, Designs user experiences,/images/3.png
+40,9, Scott, Phillips, Data Visualization Specialist, 555-0140, scott.phillips@company.com,, San Francisco, Technology, Creates data visualizations,/images/4.png
+41,5, Eric, Campbell, IT Technician, 555-0141, eric.campbell@company.com,, San Francisco, Technology, Maintains IT equipment,/images/1.png
+42,21, Maria, Parker, NLP Engineer, 555-0142, maria.parker@company.com,, San Francisco, Technology, Develops NLP models,/images/2.png
+43,11, Larry, Evans, Quality Assurance Manager, 555-0143, larry.evans@company.com,, New York, Operations, Ensures product quality,/images/3.png
+44,43, Kathleen, Edwards, QA Tester, 555-0144, kathleen.edwards@company.com,, New York, Operations, Tests product quality,/images/4.png
+45,2, Dennis, Collins, Audit Manager, 555-0145, dennis.collins@company.com,, New York, Finance, Manages audits,/images/1.png
+46,5, Pamela, Stewart, IT Analyst, 555-0146, pamela.stewart@company.com,, San Francisco, Technology, Analyzes IT systems,/images/2.png
+47,21, Jerry, Sanchez, Robotics Engineer, 555-0147, jerry.sanchez@company.com,, San Francisco, Technology, Develops robotic systems,/images/3.png
+48,11, Willie, Morris, Supply Chain Manager, 555-0148, willie.morris@company.com,, New York, Operations, Manages supply chain,/images/4.png
+49,48, Anna, Rogers, Procurement Specialist, 555-0149, anna.rogers@company.com,, New York, Operations, Handles procurement,/images/1.png
+50,5, Ruth, Reed, IT Project Manager, 555-0150, ruth.reed@company.com,, San Francisco, Technology, Manages IT projects,/images/2.png
+51,2,,,,,,HR Team,,,Team Administration & Payroll,
+52,51,Paolo,Cerminara,Administration, 555-0151,paolocerminara@company.com,, San Francisco, Human Resources,Team Administration & Payroll,/images/2.png
+53,51,Chris,Trille,Payroll, 555-0152,christrille@company.com,, San Francisco, Human Resources,Team Administration & Payroll,/images/3.png
+54,51,Carlos,Puyol,Human Resources, 555-0153,carlospuyol@company.com,, San Francisco, Human Resources,Team Administration & Payroll,/images/1.png
+51,3,,,,,,HR Team,,,,
